@@ -146,6 +146,7 @@
 				TargetAttributes = {
 					A7F48A691DBFABDB00D87038 = {
 						CreatedOnToolsVersion = 8.0;
+						DevelopmentTeam = 4Z43Q6P7C3;
 						ProvisioningStyle = Automatic;
 					};
 					A7F48A7D1DBFABDB00D87038 = {
@@ -337,6 +338,7 @@
 			isa = XCBuildConfiguration;
 			buildSettings = {
 				ASSETCATALOG_COMPILER_APPICON_NAME = AppIcon;
+				DEVELOPMENT_TEAM = 4Z43Q6P7C3;
 				INFOPLIST_FILE = FoodTracker/Info.plist;
 				LD_RUNPATH_SEARCH_PATHS = "$(inherited) @executable_path/Frameworks";
 				PRODUCT_BUNDLE_IDENTIFIER = himajin315.FoodTracker;
@@ -349,6 +351,7 @@
 			isa = XCBuildConfiguration;
 			buildSettings = {
 				ASSETCATALOG_COMPILER_APPICON_NAME = AppIcon;
+				DEVELOPMENT_TEAM = 4Z43Q6P7C3;
 				INFOPLIST_FILE = FoodTracker/Info.plist;
 				LD_RUNPATH_SEARCH_PATHS = "$(inherited) @executable_path/Frameworks";
 				PRODUCT_BUNDLE_IDENTIFIER = himajin315.FoodTracker;
